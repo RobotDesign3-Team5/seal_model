@@ -17,14 +17,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://seal_model/ueda_seal.stl</uri>
+            <uri>model://seal_model/ueda_seal.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://seal_model/ueda_seal.stl</uri>
+            <uri>model://seal_model/ueda_seal.dae</uri>
           </mesh>
         </geometry>
       </visual>
